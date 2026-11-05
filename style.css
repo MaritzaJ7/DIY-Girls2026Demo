@@ -228,7 +228,7 @@ body {
 /* The big title ("Chatbot"). */
 .header h1 {
     position: relative;         /* Keeps the title above the shine layer. */
-    font-family: 'Baloo 2', 'Nunito', sans-serif; /* A rounder, bolder font for the title. Baloo 2 is loaded from Google Fonts in index.html. */
+    font-family: 'Playwrite TZ Guides', 'Nunito', sans-serif; /* A rounder, bolder font for the title. Baloo 2 is loaded from Google Fonts in index.html. */
     font-size: 2.6rem;          /* Title size. */
     font-weight: 800;           /* How thick the letters are: 400 is normal, 700 is bold, 800 is extra bold. */
     letter-spacing: 0.5px;      /* Adds a little extra space between letters. */
